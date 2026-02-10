@@ -15,5 +15,4 @@
   <li>A lot of sections are described in this template.</li>
   <li>Structured using pure CSS grid layout.</li>
   </ul>
-  <h1>Project Preview:</h1>
-(https://hamzaashfaq01.github.io/MegaPod/).
+
