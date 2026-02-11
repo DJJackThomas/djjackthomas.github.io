@@ -104,7 +104,7 @@
 
     <h1>DJ Jack Thomas</h1>
     <p class="subtitle">Baseret i København, kører ud til hele Sjælland.
-    <p Klubber, festivaler & private events</p>
+     Klubber, festivaler & private events</p>
 
     <a href="#booking" class="cta">Book nu</a>
 
