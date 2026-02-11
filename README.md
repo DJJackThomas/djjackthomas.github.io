@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="da">
 <head>
   <meta charset="UTF-8" />
@@ -117,8 +117,6 @@
 
     <div class="social">
       <a href="https://www.instagram.com/jackreimannjensen" target="_blank">Instagram</a>
-      <a href="https://soundcloud.com/YOURPROFILE" target="_blank">SoundCloud</a>
-      <a href="https://mixcloud.com/YOURPROFILE" target="_blank">Mixcloud</a>
     </div>
 
     <div class="contact">
